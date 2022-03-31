@@ -110,7 +110,7 @@ public class Account {
 			case 'C':
 				System.out.println("Enter an amount to withdraw: ");
 				int amount2 = info.nextInt();
-				deposit(amount2);
+				withdraw(amount2);
 				System.out.println();
 				break;
 
