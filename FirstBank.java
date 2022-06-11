@@ -18,5 +18,4 @@ public class FirstBank {
 		Account sally = new Account ("Sally Cooper", "C00003");
 			sally.showMenu();
 	}
-
 }
