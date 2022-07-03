@@ -47,7 +47,6 @@ public class Account {
 		} else {
 			System.out.println("No transaction occurred.");
 		}
-
 	}
 
 	// Function calculates interest of current funds after number of years
