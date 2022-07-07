@@ -5,7 +5,6 @@ public class FirstBank {
 	//FirstBank is the class in which the main method
 	//will be declared.
 	
-	
 	public static void main(String[] args) {
 	//"showMenu function gives us access to the other functions in the Account class
 		
