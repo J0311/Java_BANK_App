@@ -14,6 +14,9 @@ public class FirstBank {
 		Account john = new Account ("John Marshall", "B00002");
 			john.showMenu();
 		
+		Account todd = new Account ("Todd Smith", "D0004");
+			todd.showMenu();
+		
 		Account sally = new Account ("Sally Cooper", "C00003");
 			sally.showMenu();
 	}
