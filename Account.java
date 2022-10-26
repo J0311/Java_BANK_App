@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Account {
+	
 	// Class Variables
 
 	int balance;
