@@ -35,6 +35,7 @@ public class Account {
 			previousTransaction = -amount;
 
 		}
+		
 	}
 	// Function showing previous transaction. Here we run if/else if
 	// statements while leveraging Math.abs, which simply returns the
